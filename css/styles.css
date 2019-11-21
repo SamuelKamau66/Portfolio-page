@@ -1,9 +1,11 @@
 h1  {
   text-align: center;
+  color: blue;
 }
 h2  {
   text-align: center;
   font-style: italic;
+  color: blue;
 }
 .aboutme  {
   text-align: center;
